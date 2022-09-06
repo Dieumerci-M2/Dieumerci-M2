@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Dieumerci-M2
+## MUHINDO Dieumerci  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+Everyone+👋,+I+am+MUHINDO+Dieumerci;+Welcome+to+My+Profile!;Over+6+Months+of+programming+experience;I+m+also+a+researcher+in+machine+learning;Fullstack+Developer)](https://git.io/typing-svg)
+
+- 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma | Microverse Alumni 🧑‍🎓
+- 💼 &nbsp; Ever Technologies 🔥 | CRES 🤩 | Tech-Congo 💕 | Ekshot ⚒️
+- ✍️ &nbsp; Got a hobby on Chess 
 - 👀 I’m interested in Web Devellopement and AI
 - 🌱 I’m currently learning Javascript/python
 - 💞️ I’m looking to get a remote job on web and mobile developpement 
-- 📫 How to reach me : I'm student at ULPGL university and also at Goma Digital Academy (DRC)
+- 📫 How to reach me : I'm student atULPGL university and also at Goma Digital Academy (DRC)
 -This is my Email : dieumerci.md09@gmail.com
 
 
