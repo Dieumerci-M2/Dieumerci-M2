@@ -1,14 +1,14 @@
 ## MUHINDO Dieumerci  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+Everyone+👋,+I+am+MUHINDO+Dieumerci;+Welcome+to+My+Profile!;Over+6+Months+of+programming+experience;I+m+a+Fullstack+Developer;I+m+also+a+researcher+in+machine+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+Everyone+👋,+I+am+MUHINDO+Dieumerci;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;I+m+a+Fullstack+Developer;I+m+also+a+researcher+in+machine+learning)](https://git.io/typing-svg)
 
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
 - ✍️ &nbsp; Got a hobby on Chess 
-- 👀 I’m interested in Web Devellopement and AI
+- 👀 I’m interested in Web development and AI
 - 🌱 I’m currently learning Javascript/python
-- 💞️ I’m looking to get a remote job on web and mobile developpement 
-- 📫 How to reach me : I'm student atULPGL university and also at Goma Digital Academy (DRC)
--This is my Email : dieumerci.md09@gmail.com
+- 💞️ I’m looking to get a remote job in web and mobile development 
+- 📫 How to reach me: I'm a student atULPGL University and also at Goma Digital Academy (DRC)
+-This is my Email: dieumerci.md09@gmail.com
 
 
 <h2>Open source projects</h2>
