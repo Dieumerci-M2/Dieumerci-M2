@@ -195,7 +195,7 @@
       <br>Express
     </td>
       <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
       <br>Mongo
     </td>
       <td align="center"  width="96">
@@ -222,7 +222,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Dieumerci-M2}/count.svg" alt="roland :: Visitor's Count" /></p>
 
-[![Muhindo Dieumerci's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dieumerci-M2&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Dieumerci-M2/github-readme-activity-graph)
+[![Muhindo Dieumerci's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Dieumerci-M2&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Dieumerci-M2/github-readme-activity-graph)
 <br/>
 <br/>
 
