@@ -1,6 +1,6 @@
 ## MUHINDO Dieumerci  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+Everyone+👋,+I+am+MUHINDO+Dieumerci;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;I+m+a+Fullstack+Developer;I+m+also+a+researcher+in+machine+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+Everyone+👋,+I+am+MUHINDO+Dieumerci;+Welcome+to+My+Profile!;Over+2+year+of+programming+experience;I+m+a+Fullstack+Developer;I+m+also+a+researcher+in+machine+learning)](https://git.io/typing-svg)
 
 - 🎓 &nbsp; Software Engineer graduated at ULPGL - Goma 
 - ✍️ &nbsp; Got a hobby on Chess 
